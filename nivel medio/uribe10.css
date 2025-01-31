@@ -1,0 +1,14 @@
+* {
+    background-color: rgb(30, 151, 30);
+}
+
+h1 {
+    text-align: center;
+    color: black;
+}
+
+.hyper {
+    display: flex;
+    gap: .625rem;
+    margin-left: 31.25rem;
+}

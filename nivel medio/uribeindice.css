@@ -1,0 +1,57 @@
+* {
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    background-color: rgb(255, 230, 0);
+    color: black;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    margin-left: 12.5rem;
+    margin-right: 12.5rem;
+    margin-bottom: 0;
+}
+
+h3 {
+    background-color: rgb(226, 186, 26);
+    color: black;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    margin-left: 18.75rem;
+    margin-right: 18.75rem;
+    margin-top: 0;
+}
+
+a {
+    text-decoration: none;
+    color: yellow;
+    padding-bottom: .4375rem;
+    background-color: black;
+    padding: .3125rem;
+
+}
+
+.menu {
+    padding-top: 1.875rem;
+    display: grid;
+
+}
+
+.idk {
+    margin-top: 1.0625rem;
+
+    border: .4375rem yellow;
+    border: .125rem dashed yellow;
+    margin-left: 31.25rem;
+    margin-right: 31.25rem;
+}
+
+.idk:hover {
+    border: .125rem solid yellow;
+    text-decoration: underline;
+    transition: 0.5s;
+    box-shadow: .375rem .1875rem .1875rem darkred;
+    background-color: purple;
+
+}

@@ -1,0 +1,84 @@
+
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: gray;
+
+}
+
+.derecha {
+    display: flex;
+    text-align: right;
+    gap: 1.875rem;
+    flex-direction: row-reverse;
+    margin-top: 1.25rem;
+    margin-right: .3125rem;
+
+}
+
+.google {
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 6.25rem;
+}
+
+p {
+    text-align: center;
+}
+
+
+.busqueda {
+    margin-top: 3.125rem;
+    margin-left: 28%;
+}
+
+.busqueda input {
+    width: 100%;
+    max-width: 43.75rem;
+    padding: .75rem;
+    font-size: 1rem;
+    border: .0625rem solid #ccc;
+    border-radius: 24px;
+    outline: none;
+    box-sizing: border-box;
+}
+
+.busqueda input:focus {
+    border-color: #4d90fe;
+}
+
+.botones{
+    display:flex;
+   gap: 3.125rem;
+   margin-top: 1.875rem;
+   margin-left: 37.5rem;
+}
+.uno{
+    color: gray;
+    background-color: #eeebeb;
+    padding: .625rem;
+
+}
+
+.dos{
+    padding: .625rem;
+    background-color: #4d90fe;
+    color: white;
+}
+
+.uno:hover{
+    color: rgb(197, 197, 197);
+    background-color: #434343;
+    padding: .625rem;
+
+}
+
+.dos:hover{
+    padding: .625rem;
+    background-color: #627ba3;
+    color: rgb(0, 0, 0);
+}

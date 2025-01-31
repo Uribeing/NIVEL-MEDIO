@@ -1,0 +1,88 @@
+* {
+    background-color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: white;
+    background-color: black;
+    font-size: 3.125rem;
+}
+
+h2 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 1.25rem;
+    font-size: 1.875rem;
+}
+
+.general {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 15.625rem;
+}
+
+.caja1 {
+    display: grid;
+    text-align: center;
+    margin-left: 1.25rem;
+    border-left: .1875rem solid blue;
+    border-right: .1875rem solid blue;
+}
+
+.grid1 {
+    margin-top: 1.875rem;
+    background-color: green;
+    color: white;
+    text-align: left;
+    margin-right: 3.125rem;
+    margin-left: 3.125rem;
+    padding-left: .3125rem;
+    border-top-left-radius: .3125rem;
+    border-top-right-radius: .3125rem;
+}
+
+.p1 {
+    margin-right: 3.125rem;
+    margin-left: 3.125rem;
+    border-bottom-left-radius: .3125rem;
+    border-bottom-right-radius: .3125rem;
+    background-color: white;
+
+
+
+}
+
+.caja2 {
+    margin-right: 3.125rem;
+    display: grid;
+    text-align: center;
+    border-left: .1875rem solid blue;
+    border-right: .1875rem solid blue;
+}
+
+.grid2 {
+    margin-top: 1.875rem;
+    background-color: green;
+    color: white;
+    text-align: left;
+    margin-right: 1.875rem;
+    margin-right: 3.125rem;
+    margin-left: 3.125rem;
+    border-top-left-radius: .3125rem;
+    border-top-right-radius: .3125rem;
+}
+
+.p2 {
+    margin-right: 3.125rem;
+    margin-left: 3.125rem;
+    border-bottom-left-radius: .3125rem;
+    border-bottom-right-radius: .3125rem;
+    background-color: white;
+
+
+
+}

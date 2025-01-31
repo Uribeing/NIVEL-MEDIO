@@ -1,0 +1,85 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    margin-left: 12.5rem;
+    margin-right: 12.5rem;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1.25rem;
+}
+
+th,
+td {
+    border: .125rem solid #000000;
+    padding: .625rem;
+
+}
+
+th {
+    background-color: lightgray;
+    font-weight: bolder;
+}
+
+.titulo {
+    text-align: center;
+    font-size: 1.5rem;
+    color: #333;
+}
+
+.segundo {
+    background-color: rgb(147, 147, 147);
+    font-size: 1.875rem;
+    font-weight: bold;
+}
+
+.AW {
+    background-color: pink;
+}
+
+.red {
+    background-color: orange;
+}
+
+.einem {
+    background-color: purple;
+}
+
+.hlc {
+    background-color: red;
+}
+
+.seg {
+    background-color: yellow;
+}
+
+.siorp {
+    background-color: greenyellow;
+}
+
+.RECREO,
+.segundo {
+    text-align: center;
+
+}
+
+.hora {
+    text-align: right;
+    background-color: lightgray;
+}
+
+.RECREO {
+    background-color: lightgray;
+}
+
+h1 {
+    margin-bottom: 0rem;
+    background-color: gray;
+}
+
+h3 {
+    margin-top: 0rem;
+    background-color: lightgray;
+}

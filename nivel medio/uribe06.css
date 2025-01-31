@@ -1,0 +1,66 @@
+* {
+    background-color: green;
+    color: white
+}
+
+h1 {
+    text-shadow: .1875rem .1875rem 0rem black;
+
+}
+
+.contenedores-grid {
+    display: grid;
+}
+
+.centro1 {
+    text-align: center;
+    background-color: white;
+    color: black;
+    border: .5rem solid;
+    border-radius: 1.125rem;
+    margin-left: 31.25rem;
+    margin-right: 31.25rem;
+    padding-bottom: .625rem;
+    padding-top: .625rem;
+    padding-right: .3125rem;
+    padding-left: .3125rem;
+}
+
+.centro2 {
+    text-align: center;
+    background-color: blue;
+    color: white;
+    border: .1875rem dashed lightskyblue;
+    padding-top: .625rem;
+    padding-bottom: .625rem;
+    margin-top: .9375rem;
+    margin-left: 31.25rem;
+    margin-right: 31.25rem;
+}
+
+.izquierda {
+    text-align: left;
+    margin-top: .9375rem;
+    background-color: rgb(210, 65, 49);
+    border: .9375rem solid darkred;
+    margin-right: 50rem;
+    padding-bottom: .3125rem;
+    padding-top: .3125rem;
+    padding-right: .3125rem;
+    padding-left: .3125rem;
+
+}
+
+.derecha {
+    text-align: right;
+    margin-top: .9375rem;
+    margin-top: .9375rem;
+    background-color: rgb(166, 51, 38);
+    border: .9375rem solid rgb(113, 20, 20);
+    margin-left: 50rem;
+    padding-bottom: .3125rem;
+    padding-top: .3125rem;
+    padding-right: .3125rem;
+    padding-left: .3125rem;
+
+}
